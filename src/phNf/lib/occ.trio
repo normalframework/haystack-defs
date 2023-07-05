@@ -1,0 +1,9 @@
+
+def: ^occupancySensor
+is: ^equip
+doc:
+  A dedicated occupancy sensor
+children: [
+  {occupied sensor point},
+  {occupancy sensor point}
+  ]

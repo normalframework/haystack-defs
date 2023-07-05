@@ -1,0 +1,12 @@
+//
+// Copyright (c) 2023, Normal Software, Inc.
+// Licensed under the Academic Free License version 3.0
+//
+
+
+--------------------------------------------------------------------------
+def: ^lib:nf
+doc: "Normal Framework Haystack Extensions"
+version: "3.0.0"
+baseUri: `https://docs2.normal.dev/
+-------------------------------------------------------------------------
